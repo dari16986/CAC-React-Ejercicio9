@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.705346eb.css",
+    "main.js": "/static/js/main.b4d9fe2f.js",
+    "static/js/787.89133e02.chunk.js": "/static/js/787.89133e02.chunk.js",
+    "static/media/background_video.mp4": "/static/media/background_video.5922a60f6c02bcea49f1.mp4",
+    "static/media/src_efecto-de-sonido-golpe.mp3": "/static/media/src_efecto-de-sonido-golpe.651b7a23a5e978ad8395.mp3",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.705346eb.css.map": "/static/css/main.705346eb.css.map",
+    "main.b4d9fe2f.js.map": "/static/js/main.b4d9fe2f.js.map",
+    "787.89133e02.chunk.js.map": "/static/js/787.89133e02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705346eb.css",
+    "static/js/main.b4d9fe2f.js"
+  ]
+}
